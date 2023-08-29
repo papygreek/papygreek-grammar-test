@@ -1,10 +1,9 @@
 <h1> Abbreviations</h1>
-<h2 id="title">Title</h2>
+<h1 id="section"></h1>
+<p>aeg# Title</p>
 <p>As <span class="citation" data-cites="muhs2007">Muhs (2007)</span>
 points out,</p>
 <table>
-<caption>smyth-body.1_div1.1_div2.1.html+body.1_div1.1_div2.1_div3.7(Smyth
-link):</caption>
 <thead>
 <tr class="header">
 <th>Syntax</th>
@@ -22,6 +21,9 @@ link):</caption>
 </tr>
 </tbody>
 </table>
+<p>aeg</p>
+<p><a data-link-newtab="" href="/smyth/body.1_div1.1_div2.1.html+body.1_div1.1_div2.1_div3.7" data-url="smyth/body.1_div1.1_div2.1.html+body.1_div1.1_div2.1_div3.7">Smyth
+link</a></p>
 <div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-muhs2007" class="csl-entry" role="listitem">
 Muhs, Brian. 2007. <span>“Linguistic Hellenization in Early Ptolemaic
